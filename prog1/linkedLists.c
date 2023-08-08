@@ -157,20 +157,7 @@ void viewByIndex(int index){
 }
 
 int main(){
-    // addToEnd(10);
-    // addToEnd(12);
-    // addToEnd(42);
-    // addToEnd(3);
-    // printList();
-    // insertAtPosition(2, 5);
-    // printList();
-    // removeAtPosition(10);
-    // removeAtPosition(0);
-    // printList();
-    // removeAtPosition(2);
-    // printList();
-    // removeByValue(5);
-    // printList();
+    
     int isRunning = 5;
     printf("Welcome to the linked list interface.\n");
     int choice;
